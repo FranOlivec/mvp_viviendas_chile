@@ -37,5 +37,11 @@ En futuras versiones, se contempla extender el modelo a nivel regional y comunal
 
 ---
 
-**Desarrollado con ❤️ por Francisca Olivares — Ingeniera Ambiental & Data Scientist.**  
+## 👩‍💻 **Autora**
+
+**Francisca Olivares Vecchiola**  
+🌱 Ingeniera Ambiental & Data Scientist  
+💡 Enfocada en sostenibilidad, datos abiertos y ciencia aplicada.  
+📫 [LinkedIn](https://www.linkedin.com/in/franciscaolivaresvecchiola/)  
+
 📊 *Proyecto demostrativo de análisis predictivo con datos abiertos de Chile.*
